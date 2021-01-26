@@ -1,0 +1,24 @@
+{
+    "name": "Name",
+    "family": "Family Name",
+    "address": "Address",
+    "country": "Country",
+    "email": "Email",
+    "age": "Age",
+    "hired": "Hired",
+    "submit" : "Submit",
+    "title" : "We would like to get to know you !!",
+    "reset" : "Reset",
+    "sucessMessage" : "Data have been saved successfully !!",
+    "errorMessages" :{
+        "required" : "${$displayName} is missing !" 
+    },
+    "language" : {
+        "title" : "Select the language",
+        "english" : "English",
+        "german" :"German",
+        "french":"French"
+    }
+    
+
+}

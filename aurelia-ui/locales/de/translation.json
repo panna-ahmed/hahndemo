@@ -1,0 +1,22 @@
+{  
+    "name" : "Name",
+    "family":"Nachname",
+    "address": "Adresse",
+    "country": "Land",
+    "email": "Email",
+    "age": "Alter",
+    "hired": "Gemietet",
+    "submit" : "Einreichen",
+    "title" : "Wir möchten dich kennenlernen !!",
+    "reset" : "Zurücksetzen",
+    "sucessMessage" : "Daten wurden erfolgreich gespeichert !!",
+    "errorMessages" :{
+        "required" : "${$displayName} wird vermisst !" 
+    },
+    "language" : {
+        "title" : "Wählen Sie die Sprache",
+        "english" :"Englisch",
+        "german" :"Deutsche",
+        "french":"Französisch"
+    }
+ }

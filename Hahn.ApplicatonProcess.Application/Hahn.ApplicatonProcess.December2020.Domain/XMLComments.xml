@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hahn.ApplicatonProcess.December2020.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo">
+            <summary>Personal Details</summary>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.Id">
+            <summary>Identity Column.</summary>
+            <value>Identity Column.</value>
+            <example>12</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.Name">
+            <summary>Full Name.</summary>
+            <value>Full Name.</value>
+            <example>Mark Anthony</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.FamilyName">
+            <summary>Family Name.</summary>
+            <value>Family Name.</value>
+            <example>Fernandaz</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.CountryOfOrigin">
+            <summary>Country of origin.</summary>
+            <value>Country of origin.</value>
+            <example>England</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.Address">
+            <summary>Address.</summary>
+            <value>Address.</value>
+            <example>Colombo</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.EmailAddress">
+            <summary>Email Address.</summary>
+            <value>Email Address.</value>
+            <example>markanthony@yahoo.com</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.Age">
+            <summary>Age.</summary>
+            <value>Age.</value>
+            <example>35</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.Models.PersonalInfo.IsHired">
+            <summary>Is Hired.</summary>
+            <value>Is Hired.</value>
+            <example>True</example>
+        </member>
+    </members>
+</doc>

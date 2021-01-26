@@ -1,0 +1,22 @@
+{
+    "name": "Nom",
+    "family": "Nom de famille",
+    "address": "Adresse",
+    "country": "Pays",
+    "email": "Email",
+    "age": "Âge",
+    "hired": "Embauché",
+    "submit": "Soumettre",
+    "title": "Nous aimerions vous connaître !!",
+    "reset": "Réinitialiser",
+    "sucessMessage": "Les données ont été enregistrées avec succès !!",
+    "errorMessages": {
+        "required": "${$displayName} est manquant !"
+    },
+    "language": {
+        "title": "Sélectionnez la langue",
+        "english" : "Anglais",
+        "german" :"Allemand",
+        "french":"Français"
+    }
+}

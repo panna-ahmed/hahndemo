@@ -1,0 +1,20 @@
+<template>
+<style>
+    ux-dialog-overlay.active {
+    background-color: black;
+    opacity: .5;
+  }
+  
+</style>
+
+    <ux-dialog>
+        <ux-dialog-body>
+            <h3>${message}</h3>
+            
+        </ux-dialog-body>
+        <ux-dialog-footer>
+            <button click.trigger="controller.ok(message)">OK</button>
+            <button click.trigger="controller.cancel()">Cancel</button>
+        </ux-dialog-footer>
+    </ux-dialog>
+</template>
